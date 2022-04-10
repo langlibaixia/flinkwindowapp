@@ -28,7 +28,6 @@ CREATE TABLE `transflow` (
      需要根据自己环境修改mysql和kafka连接信息。
 ## 上传jar包到flink集群
      注意根据自己环境指定启动配置文件路径
-![](vx_images/571214816231888.png)
 
 ##运行和测试
-![164958066333](vx_images/84675316249768.png)
+
